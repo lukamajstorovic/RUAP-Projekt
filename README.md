@@ -1,2 +1,2 @@
 # RUAP-Projekt
-Repository for Service computing and data analysis course labs.
+My repository for Service computing and data analysis course labs.
